@@ -6,9 +6,9 @@ Es una aplicación de consola que permite a los usuarios calcular tasas de cambi
 Características principales</h1>
 <ul>
     <li>Cálculo de tipo de cambio en tiempo real:</li>
-    <ol>
+    <ul>
         <li>Obtiene tasas de conversión actualizadas de una API externa para múltiples monedas.</li>
-    </ol>
+    </ul>
     <li>Historial de conversiones.</li>
     <p>Registra y muestra las conversiones realizadas con la fecha y hora en que se consultaron.</p>
     <li>Interfaz de consola amigable.</li>
