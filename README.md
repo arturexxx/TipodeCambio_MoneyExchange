@@ -9,16 +9,15 @@ Características principales</h1>
     <ul>
         <li>Obtiene tasas de conversión actualizadas de una API externa para múltiples monedas.</li>
     </ul>
-    <li>Historial de conversiones.</li>
-    <p>Registra y muestra las conversiones realizadas con la fecha y hora en que se consultaron.</p>
-    <li>Interfaz de consola amigable.</li>
+    <li>Historial de conversiones:</li>
+    <ul>
+        <li>Registra y muestra las conversiones realizadas con la fecha y hora en que se consultaron.</li>
+    </ul>
+    <li>Menú intuitivo:</li>
+    <ul>
+        <li>Fácil navegación a través de un menú principal y submenús para gestionar consultas.</li>
+    </ul>
 </ul>
-
-Obtiene tasas de conversión actualizadas de una API externa para múltiples monedas.
-Historial de conversiones:
-Registra y muestra las conversiones realizadas con la fecha y hora en que se consultaron.
-Menú intuitivo:
-Fácil navegación a través de un menú principal y submenús para gestionar consultas.
 
 
 <h1 style="display: inline;"><img src="https://github.com/user-attachments/assets/6bbbdb73-f1a8-4429-80b6-1a2ef2f23146" alt="Icono Principal" style="height: 50px; vertical-align: middle;"/>
