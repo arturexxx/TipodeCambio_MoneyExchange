@@ -11,7 +11,7 @@ Registra y muestra las conversiones realizadas con la fecha y hora en que se con
 Menú intuitivo:
 Fácil navegación a través de un menú principal y submenús para gestionar consultas.
 
-![funcionalidades]()
+
 <h1 style="display: inline;"><img src="https://github.com/user-attachments/assets/6bbbdb73-f1a8-4429-80b6-1a2ef2f23146" alt="Icono Principal" style="height: 50px; vertical-align: middle;"/>
 Funcionalidades</h1>
 
