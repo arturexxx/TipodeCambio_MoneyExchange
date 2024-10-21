@@ -5,11 +5,13 @@ Es una aplicación de consola que permite a los usuarios calcular tasas de cambi
 <h1 style="display: inline;"><img src="https://github.com/user-attachments/assets/910d9bad-3981-41d1-9874-71a6524e04be" alt="Icono Principal" style="height: 50px; vertical-align: middle;"/>
 Características principales</h1>
 <ul>
-    <li>Conversión entre múltiples monedas.</li>
+    <li>Cálculo de tipo de cambio en tiempo real:</li>
+    <p>Obtiene tasas de conversión actualizadas de una API externa para múltiples monedas.</p>
     <li>Historial de conversiones.</li>
+    <p>Registra y muestra las conversiones realizadas con la fecha y hora en que se consultaron.</p>
     <li>Interfaz de consola amigable.</li>
 </ul>
-Cálculo de tipo de cambio en tiempo real:
+
 Obtiene tasas de conversión actualizadas de una API externa para múltiples monedas.
 Historial de conversiones:
 Registra y muestra las conversiones realizadas con la fecha y hora en que se consultaron.
