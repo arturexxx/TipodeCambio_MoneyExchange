@@ -1,4 +1,5 @@
-💱 # TipodeCambio_MoneyExchange
+💱 
+# TipodeCambio_MoneyExchange
 
 Es una aplicación de consola que permite a los usuarios calcular tasas de cambio entre diversas monedas. También mantiene un historial de las conversiones realizadas, mostrando los resultados y la fecha de cada consulta.
 
