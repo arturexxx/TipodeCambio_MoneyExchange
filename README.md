@@ -37,3 +37,18 @@ Funcionalidades</h1>
 <ul>
     <li>Finaliza la aplicación cuando el usuario lo desea.</li>
 </ul>
+
+
+<h2>🌍 Monedas Disponibles</h2>
+<p>La aplicación soporta las siguientes monedas para conversiones:</p>
+<ul>
+    <li>🟢 <strong>USD</strong> - Dólar Estadounidense</li>
+    <li>🔵 <strong>EUR</strong> - Euro</li>
+    <li>⚪ <strong>ARS</strong> - Peso Argentino</li>
+    <li>🟡 <strong>PEN</strong> - Sol Peruano</li>
+    <li>🟠 <strong>BRL</strong> - Real Brasileño</li>
+    <li>⚫ <strong>COP</strong> - Peso Colombiano</li>
+    <li>🔴 <strong>JPY</strong> - Yen Japonés</li>
+    <li>🟣 <strong>BOB</strong> - Boliviano</li>
+    <li>🟤 <strong>CLP</strong> - Peso Chileno</li>
+</ul>
