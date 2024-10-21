@@ -9,11 +9,11 @@ Características principales</h1>
     <ul>
         <li>Obtiene tasas de conversión actualizadas de una API externa para múltiples monedas.</li>
     </ul>
-    <li>Historial de conversiones:</li>
+    <h3><li>Historial de conversiones:</li></h3>
     <ul>
         <li>Registra y muestra las conversiones realizadas con la fecha y hora en que se consultaron.</li>
     </ul>
-    <li>Menú intuitivo:</li>
+    <h3><li>Menú intuitivo:</li></h3>
     <ul>
         <li>Fácil navegación a través de un menú principal y submenús para gestionar consultas.</li>
     </ul>
