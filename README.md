@@ -24,16 +24,16 @@ Características principales</h1>
 <h1 style="display: inline;"><img src="https://github.com/user-attachments/assets/6bbbdb73-f1a8-4429-80b6-1a2ef2f23146" alt="Icono Principal" style="height: 50px; vertical-align: middle;"/>
 Funcionalidades</h1>
 
-<h2>1. Calcular Tipo de Cambio</h2>
+<h3>1. Calcular Tipo de Cambio</h3>
 <ul>
     <li>El usuario puede seleccionar dos monedas y un importe para obtener la tasa de conversión entre ellas.</li>
     <li>El resultado incluye la tasa aplicada y el monto convertido.</li>
 </ul>
-<h2>2. Historial de Consultas</h2>
+<h3>2. Historial de Consultas</h3>
 <ul>
     <li> Permite ver el registro de todas las conversiones realizadas en la sesión actual, mostrando el importe, la moneda de origen, la moneda destino, el monto resultante, y la fecha y hora de la     consulta.</li>
 </ul>
-<h2>3. Salir del Programa</h2>
+<h3>3. Salir del Programa</h3>
 <ul>
     <li>Finaliza la aplicación cuando el usuario lo desea.</li>
 </ul>
@@ -53,3 +53,20 @@ Funcionalidades</h1>
     <li>🟣 <strong>BOB</strong> - Boliviano</li>
     <li>🟤 <strong>CLP</strong> - Peso Chileno</li>
 </ul>
+
+<h2>🛠️ Requisitos de Instalación</h2>
+<ol>
+    <li>
+        <strong>Clonar el Repositorio</strong>
+        <pre><code>git clone https://github.com/arturexxx/TipodeCambio_MoneyExchange.git
+cd TipodeCambio_MoneyExchange</code></pre>
+    </li>
+    <li>
+        <strong>Compilar y Ejecutar la Aplicación</strong>
+        <p>Compilar el código fuente:</p>
+        <pre><code>javac Principal.java ConsultaTipoCambio.java MoneyChange.java</code></pre>
+        <p>Ejecutar el programa:</p>
+        <pre><code>java Principal</code></pre>
+    </li>
+</ol>
+
