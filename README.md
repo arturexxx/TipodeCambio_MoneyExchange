@@ -39,7 +39,8 @@ Funcionalidades</h1>
 </ul>
 
 
-<h2>🌍 Monedas Disponibles</h2>
+
+<h1>🌍 Monedas Disponibles</h1>
 <p>La aplicación soporta las siguientes monedas para conversiones:</p>
 <ul>
     <li>🟢 <strong>USD</strong> - Dólar Estadounidense</li>
