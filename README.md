@@ -86,7 +86,7 @@ TipodeCambio_MoneyExchange/
 <h2>📧 Contacto</h2>
 <p>Si tienes preguntas o sugerencias sobre la aplicación, no dudes en ponerte en contacto:</p>
 <ul>
-    <li><strong>GitHub:</strong> <a href="https://github.com/arturexxx" target="_blank">arturexxx</a></li>
-    <li><strong>Email:</strong> <a href="mailto:tuemail@example.com">tuemail@example.com</a></li>
+    <li><strong>GitHub:</strong> <a href="https://github.com/arturexxx" target="_blank">Arturo Guerrero</a></li>
+    <li><strong>Email:</strong> <a href="mailto:agcguerrero@gmail.com">agcguerrero@gmail.com</a></li>
 </ul>
 
