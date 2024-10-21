@@ -1,5 +1,6 @@
 <h1 style="display: inline;"><img src="https://github.com/user-attachments/assets/875eb7c8-bf89-4875-83cd-f98be0d6213f" alt="Icono Principal" style="height: 50px; vertical-align: middle;"/> Tipo de Cambio MoneyExchange</h1>
-Es una aplicación de consola que permite a los usuarios calcular tasas de cambio entre diversas monedas. También mantiene un historial de las conversiones realizadas, mostrando los resultados y la fecha de cada consulta.
+<h3>Es una aplicación de consola que permite a los usuarios calcular tasas de cambio entre diversas monedas. También mantiene un historial de las conversiones realizadas, mostrando los resultados y la fecha de cada consulta.</h3>
+
 
 
 <h1 style="display: inline;"><img src="https://github.com/user-attachments/assets/910d9bad-3981-41d1-9874-71a6524e04be" alt="Icono Principal" style="height: 50px; vertical-align: middle;"/>
@@ -18,6 +19,7 @@ Características principales</h1>
         <li>Fácil navegación a través de un menú principal y submenús para gestionar consultas.</li>
     </ul>
 </ul>
+
 
 
 <h1 style="display: inline;"><img src="https://github.com/user-attachments/assets/6bbbdb73-f1a8-4429-80b6-1a2ef2f23146" alt="Icono Principal" style="height: 50px; vertical-align: middle;"/>
