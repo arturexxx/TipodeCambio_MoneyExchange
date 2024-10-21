@@ -8,6 +8,7 @@ Historial de conversiones:
 Registra y muestra las conversiones realizadas con la fecha y hora en que se consultaron.
 Menú intuitivo:
 Fácil navegación a través de un menú principal y submenús para gestionar consultas.
+
 📋 Funcionalidades
 1. Calcular Tipo de Cambio
 El usuario puede seleccionar dos monedas y un importe para obtener la tasa de conversión entre ellas.
